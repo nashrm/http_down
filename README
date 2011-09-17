@@ -1,0 +1,5 @@
+In this project the goal is to create a command line application that
+will take as it's argument an ipaddress or domain name and will
+attempt to make an http connection with that machine, download the
+file served and save it in a file.
+
